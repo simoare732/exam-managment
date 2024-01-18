@@ -9,3 +9,4 @@ In this application you can add,modify or remove exams and every of it can be si
 Depending by the filters you put, then you can press the button "Grafico" and it will show you a window with a histogram about the informations in the table in that moment.
 
 Then you can save, load or print the table.
+In the "doc" directory there is the file index to see the documentation about the program.
