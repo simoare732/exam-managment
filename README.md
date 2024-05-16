@@ -1,4 +1,8 @@
 # exam-managment
+Exam managment system for teachers.
+![funny image of exams](https://github.com/simoare732/exam-managment/blob/main/images/symbol.png?raw=true)
+
+# Description
 An application can help a teacher (university teacher) to save the exams of his students.
 
 To run the application you have to go into "target" directory and press the file called "tesina-1.0-jar-with-dependencies".
@@ -10,3 +14,10 @@ Depending by the filters you put, then you can press the button "Grafico" and it
 
 Then you can save, load or print the table.
 In the "doc" directory there is the file index to see the documentation about the program.
+
+# Requirments
+* Java
+* JDK 17 or higher
+
+# Screenshot
+![Screenshot of application running](https://github.com/simoare732/exam-managment/blob/main/images/example.png?raw=true)
