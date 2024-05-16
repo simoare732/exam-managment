@@ -1,5 +1,6 @@
 # exam-managment
 Exam managment system for teachers.
+
 ![funny image of exams](https://github.com/simoare732/exam-managment/blob/main/images/symbol.png?raw=true)
 
 # Description
