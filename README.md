@@ -21,3 +21,9 @@ In the "doc" directory there is the file index to see the documentation about th
 
 # Screenshot
 ![Screenshot of application running](https://github.com/simoare732/exam-managment/blob/main/images/example.png?raw=true)
+
+# Made by
+Made by simoare732
+
+Date : 02/10/2024 mm-dd-yyy
+
